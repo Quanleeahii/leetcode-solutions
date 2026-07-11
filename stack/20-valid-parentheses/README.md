@@ -11,4 +11,4 @@
 - After processing all characters, the string is valid if and only if the stack is empty
 ### Complexity
 - Time: O(n)
-- Space: O(n)
+- Space: O(n)~~~~~~
