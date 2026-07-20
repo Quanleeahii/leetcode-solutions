@@ -1,6 +1,6 @@
 # 901. Online Stock Span
 
-## Solution: Monotonic StackHistory Tracking
+## Solution: Monotonic Stack
 ### Idea
 - Store pairs of price and span in a monotonic decreasing stack
 - Start each new price with a span of 1
