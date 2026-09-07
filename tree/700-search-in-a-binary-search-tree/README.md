@@ -7,5 +7,5 @@
 - Otherwise, search the right subtree
 - Use the BST property to search only one subtree at each step
 ### Complexity
-- Time: O(h)
-- Space: O(h)
+- Time: O(logn) average, O(n) worst-case
+- Space: O(logn) average, O(n) worst-case
